@@ -1,0 +1,3 @@
+A Ramdom Number Builder, It could help you build some ramdom value.
+For example,
+U can use it to match some rewards for your partner, family, workmate...
